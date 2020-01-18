@@ -8,8 +8,7 @@ A particularly interesting backend, provided by IPython, is the inline backend. 
 
 ```py
 %matplotlib inline
-
 ```
 With this backend, the output of plotting commands is displayed inline within frontends like the Jupyter notebook, directly below the code cell that produced it. The resulting plots will then also be stored in the notebook document.
 
-Reference: https://stackoverflow.com/questions/43027980/purpose-of-matplotlib-inline
+Reference: [https://stackoverflow.com/questions/43027980/purpose-of-matplotlib-inline](https://stackoverflow.com/questions/43027980/purpose-of-matplotlib-inline)
