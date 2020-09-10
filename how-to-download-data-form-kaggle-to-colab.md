@@ -1,8 +1,8 @@
-Only for newbie:
-	1) go to the competition page and click Rules
-	2) click I understand and agree and do the procedure
-	3) click data
-	4) click I understand and agree
+## Only for newbie:
+	1. go to the competition page and click Rules
+	2. click I understand and agree and do the procedure
+	3. click data
+	4. click I understand and agree
 1) If you are in colab:
 	!pip install --upgrade --force-reinstall --no-deps kaggle
    If in your local machine:
