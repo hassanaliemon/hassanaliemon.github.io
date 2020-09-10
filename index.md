@@ -3,9 +3,8 @@ Hi, I am Hasan. An AI enthusiast. Currently working as Researcher and Developer 
 
 # Miscellaneous
 
-- Bulleted [Matplotlib](matplotlib.md)
-
-- Bulleted [Download kaggle files directly into colab](how-to-download-data-form-kaggle-to-colab.md)
+- [Matplotlib](matplotlib.md)
+- [Download kaggle files directly into colab](how-to-download-data-form-kaggle-to-colab.md)
 
 You can use the [editor on GitHub](https://github.com/hassanaliemon/hassanaliemon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
