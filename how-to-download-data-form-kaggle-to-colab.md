@@ -5,11 +5,11 @@ Only for newbie(Who never done it before):
 - click data
 - click I understand and agree
 
-1. If you are in colab:
-``` !pip install --upgrade --force-reinstall --no-deps kaggle ```
-If in your local machine:
+1. If you are in colab:<br/>
+``` !pip install --upgrade --force-reinstall --no-deps kaggle ``` <br/>
+If in your local machine: <br/>
 ``` !pip install kaggle ```
-2.  go to your account and scroll to API section and click Create New API Token
+2. go to your account and scroll to API section and click Create New API Token
 	It will download kaggle.json file to your local machine
 3. Upload That file in colab using this command
 ```python 
