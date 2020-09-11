@@ -11,13 +11,14 @@ If in your local machine: <br/>
 ``` !pip install kaggle ```
 2. go to your account and scroll to API section and click Create New API Token
 	It will download ``` kaggle.json ``` file to your local machine
-3. Upload That file in colab using this command <br/>
-```python 
+3. Upload That file in colab using this command \
+```
 from google.colab import files  
-files.upload() ```
-  and upload the kaggle.json file
+files.upload() 
+```
+and upload the kaggle.json file
 4. Copy the json file
-```! cp kaggle.json ~/.kaggle/```
+```!cp kaggle.json ~/.kaggle/```
 5.  Change the permissions of the file!
 ```!chmod 600 ~/.kaggle/kaggle.json```
 6.  Now go to the data section of the competition page and copy the download command. 
