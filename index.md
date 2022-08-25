@@ -1,5 +1,5 @@
 # Welcome to my GitHub Pages
-Hi, I am Hasan. An AI enthusiast. Currently working as Researcher and Developer at [Semantics lab](http://semanticslab.net/)
+Hi, I am Hasan. An AI enthusiast. Currently working as Associate AI Engineer at [Next Solution Lab](http://nextsolutionlab.com/)
 
 # Miscellaneous
 
