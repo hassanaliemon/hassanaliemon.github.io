@@ -6,7 +6,7 @@ from previous models. Then we started to dig down.
 
 Upon digging down, we got the point where it caused problem and it was none other then 
 learning rate. As we were resuming training from later epochs but the learning rate was the same.
-As learning rate has a great impact on adjusting weights thus initilizing learning rate 
+As learning rate has a great impact on adjusting weights thus initializing learning rate 
 bigger caused the performance fall down!
 
 I got it very easy in pytorch that it saves optimizer parameters differently and while 
