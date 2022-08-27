@@ -20,7 +20,6 @@ optimizer.load_state_dict(checkpoint['optimizer_dict'])
 for param in optimizer.param_groups:
     param['lr'] = lr
 ```
+[see here](https://stackoverflow.com/questions/51756913/in-pytorch-how-do-you-use-add-param-group-with-a-optimizer) further.
 
-https://stackoverflow.com/questions/51756913/in-pytorch-how-do-you-use-add-param-group-with-a-optimizer
-Also tensorflow we can do this like below.
-https://stackoverflow.com/questions/47994638/keras-resume-training-with-different-learning-rate
+Also tensorflow we can do this like [below.](https://stackoverflow.com/questions/47994638/keras-resume-training-with-different-learning-rate)
